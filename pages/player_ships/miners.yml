@@ -5,9 +5,14 @@ icon: icons/ships/Miner_lv5_rot.png
 headerImage: artwork/miner.jpg
 content:
   - type: text
-    text: >
+    text:
+      en: >
       Miner ships can collect Hydrogen from asteroid fields.
       Miners always cost 1 hydrogen to move, plus whatever additional cost is dictated by added modules.
+      
+      de: >
+      Ein langsames und schwaches Schiff, das Wasserstoff aus Asteroidenfeldern gewinnt.
+      Die Bewegung von Bergbauschiffen kostet immer 1 Wasserstoff, zuzüglich der zusätzlichen Kosten, die durch hinzugefügte Module entstehen.
 
   - type: excel-table
     filename: tables/ships.xlsx
